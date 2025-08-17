@@ -14,7 +14,7 @@ An ultra-strong seatbelt system that keeps you 100% secured in your vehicle. No 
 
 **Requirements**
 
-・ ox_lib
+・ [ox_lib](https://github.com/overextended/ox_lib/releases)
 
 **Installation**
 
