@@ -25,6 +25,6 @@ An ultra-strong seatbelt system that keeps you 100% secured in your vehicle. No 
 
 3) Make sure you have ox_lib installed and started before this resource.
 
-3) Add the following line to your server.cfg: 
+4) Add the following line to your server.cfg: 
 ensure ox_lib
 ensure jan-seatbelt
