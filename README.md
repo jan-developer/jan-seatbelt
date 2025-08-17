@@ -21,6 +21,7 @@ An ultra-strong seatbelt system that keeps you 100% secured in your vehicle. No 
 1) Download and place the script in your resources folder.
 
 **important** !
+
 2) Delete seatbelt.lua file in qb-smallreasource\client\seatbelt.lua
 
 3) Make sure you have ox_lib installed and started before this resource.
